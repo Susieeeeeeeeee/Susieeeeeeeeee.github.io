@@ -3,7 +3,7 @@ layout:     post
 title:      "Simple Distributed File System in Java"
 date:       2018-08-15 12:00:00
 author:     "Susie"
-header-img: "img/post-bg-miui6.jpg"
+header-img: "img/home-bg.jpg"
 tags:
     - Java
     - Distributed System
