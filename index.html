@@ -1,11 +1,38 @@
 ---
 layout: page
-description: "我干了什么 究竟拿了时间换了什么"
+description: "SoftWare Engineer💡♡| Graduate Student in ECE👩‍🎓 | Dreamer🌈 | Fruit addicted🍑🍉"
 ---
+
+<div class="post-preview">
+        <h2 class="post-title">
+            About Susie
+        </h2>
+        <div>
+            Hey, I am Susie. Nice to Meet you 🤗.
+        </div>
+        <br>
+
+        <div>
+            I am a Master student in Computer Software Engineering at the Univeristy of Illinois at Urbana Champaign, graduating by May 2019. I have experience in system programming, web development as well as other software development engineer's required skills.
+
+            Before I came to University of Illinois at Urbana Champaign, I had four year experience in State Grid Corporation of China as solution solver. I applied algorithms to improve state network efficiency. It is also the place where I learned dedication.
+        </div>
+
+
+        <br>
+
+
+        <div>
+            I quit my previous job because I always like to learn new things and I am a faster learner. I like to stay positive about everything and keep learning. 
+        </div>
+        <br>
+
+</div>
+<hr>
+
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
         </h2>
@@ -14,14 +41,13 @@ description: "我干了什么 究竟拿了时间换了什么"
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">
+        <div>
             {% if post.lang == 'en' %}
-                {{ post.content | strip_html | truncate:300 }}
+                {{ post.content}}
             {% else %}
-                {{ post.content | strip_html | truncate:200 }}
+                {{ post.content}}
             {% endif %}
         </div>
-    </a>
     <p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
