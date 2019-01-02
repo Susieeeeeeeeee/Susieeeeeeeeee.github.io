@@ -16,7 +16,7 @@ tags:
 
 
 <div>
-<a href="https://github.com/Susieeeeeeeeee/Applied-Parallel-Programming-Project" style="color:lightblue;">Need update</a>
+<a href="https://github.com/Susieeeeeeeeee/Event-Search-and-Recommendation-System-in-Java" style="color:lightblue;">Github Source</a>
 <ul>
   <li>Developed an interactive web page for users to search events and purchase tickets (HTML, CSS and JavaScript)</li>
   <li>Improved personalized recommendation based on search history and favorites</li>
