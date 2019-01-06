@@ -14,7 +14,7 @@ tags:
 
 
 <div>
-<a href="https://github.com/Susieeeeeeeeee/Distributed-System" style="color:lightblue;">Github Source</a>
+<!-- <a href="https://github.com/Susieeeeeeeeee/Distributed-System" style="color:lightblue;">Github Source</a> -->
 <ul>
   <li>Created a dashboard using React, D3 and Ant Design to visualize NBA player’s shot data</li>
   <li>Created filters and shot themes (hexbin and scatter) to provide more customized visualization on shot chart</li>
