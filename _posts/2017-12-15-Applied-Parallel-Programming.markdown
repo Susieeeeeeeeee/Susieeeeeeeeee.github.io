@@ -5,7 +5,7 @@ date:       2017-12-15 12:00:00
 author:     "Susie"
 tags:
     - C
-    - Applied Parallel Programming
+    - Parallel Programming
     - GPU
     - System Programming
 ---
