@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Simple Distributed File System in Java"
-date:       2018-08-15 12:00:00
+date:       2017-12-20 12:00:00
 author:     "Susie"
 header-img: "img/home-bg.jpg"
 tags:
