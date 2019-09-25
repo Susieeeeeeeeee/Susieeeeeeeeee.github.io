@@ -9,6 +9,7 @@ tags:
     - Scala
     - Amazon EMR
     - Big Data
+    
 ---
 
 
@@ -17,7 +18,6 @@ tags:
   <li>Implemented an end-to-end data pipeline with Spark on Amazon EMR, which process TB-scale data</li>
   <li>Experienced in extract transform and load (ETL) processing large datasets of different forms with AWS Glue</li>
 
-  <li>Deployed server to Amazon EC2 to handle 150 queries per second</li>
 </ul>
 </div>
 
