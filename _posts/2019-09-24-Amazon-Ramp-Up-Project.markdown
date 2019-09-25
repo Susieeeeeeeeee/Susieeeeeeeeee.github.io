@@ -9,7 +9,6 @@ tags:
     - Scala
     - Amazon EMR
     - Big Data
-    
 ---
 
 

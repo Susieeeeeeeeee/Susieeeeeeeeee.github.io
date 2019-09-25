@@ -8,7 +8,6 @@ tags:
     - Java
     - Distributed System
     - System Programming
-    
 ---
 
 

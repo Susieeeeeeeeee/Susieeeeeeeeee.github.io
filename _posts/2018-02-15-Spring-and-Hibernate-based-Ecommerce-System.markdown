@@ -7,7 +7,6 @@ tags:
     - C
     - GPU
     - Parallel Programming
-
 ---
 
 
